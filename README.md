@@ -1,4 +1,4 @@
-Tetris Game made by Rohit Gajawada
+Tetris Clone made by Rohit Gajawada
 
 Controls:
 a: move left
